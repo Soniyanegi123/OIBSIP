@@ -78,7 +78,7 @@ The dataset contains information about:
 ## 📁 Project Structure
 
 ```
-DataAnalytics-L1-EDARetailSales/
+SoniyaNegi_Task1/
 │
 ├── EDA_RetailSales.ipynb
 ├── Global Superstore.csv
